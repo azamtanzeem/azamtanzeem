@@ -1,4 +1,4 @@
-# Hi, I'm Azam 👋
+# Hi, I'm Azam Tanzeem 👋
 
 **Data Analyst** · Dubai, UAE
 
