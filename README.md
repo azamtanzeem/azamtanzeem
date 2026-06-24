@@ -33,7 +33,6 @@
 - Google Data Analytics Professional Certificate
 - Alteryx Designer Core Certified
 - Alteryx ML Fundamentals Certified
-- Microsoft PL-300 *(in progress)*
 
 ---
 
